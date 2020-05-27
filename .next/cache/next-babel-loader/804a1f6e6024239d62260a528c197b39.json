@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport './navbar.scss';\nimport Dict from '../../../model/Dict';\nimport SideBar from './SideBar';\n\nconst Navbar = props => {\n  return __jsx(React.Fragment, null, __jsx(SideBar, {\n    active: props.active\n  }));\n};\n\nexport default Navbar;","map":null,"metadata":{},"sourceType":"module"}
