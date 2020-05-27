@@ -14,26 +14,6 @@ body {
   justify-content: center;
   align-items: center; }
 
-.containerBlog {
-  width: 100%;
-  height: auto;
-  min-height: 100vh;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: start;
-  justify-content: space-between;
-  padding: 0px 16%;
-  box-sizing: border-box; }
-  .containerBlog .card {
-    margin: 10px; }
-    .containerBlog .card .cardText {
-      max-height: 300px;
-      overflow-y: scroll; }
-
-.title {
-  width: 100%;
-  padding: 20px 16%; }
-
 .sidebar {
   width: 10%;
   height: auto;
