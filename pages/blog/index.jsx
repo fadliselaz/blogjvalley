@@ -4,7 +4,7 @@ import { useEffect } from 'react'
 import {Card, Button} from 'react-bootstrap'
 import Head from 'next/head'
 
-const Blog = () => {
+const Blog = ({data}) => {
 
   return (
     <>
@@ -19,7 +19,7 @@ const Blog = () => {
     <Navbar active='blog'/>
         <h1 className='title'>Blog</h1>
     <div className='containerBlog'>
-{/*     
+    
         {data.map((e)=>{
             const image = e.image.formats.medium.url
             console.log(image)
@@ -36,19 +36,19 @@ const Blog = () => {
                 </Card.Body>
                 </Card>
             )
-        })} */}
+        })}
 
     </div>
     </>
   )
 }
 
-// Blog.getInitialProps = async ()=>{
-//     const res = await fetch('https://admin.jvalleyschool.com/blog-contents')
-//     const data = await res.json()
-//     return{
-//         data : data
-//     }
-// }
+Blog.getInitialProps = async ()=>{
+    const res = await fetch('https://admin.jvalleyschool.com/blog-contents')
+    const data = await res.json()
+    return{
+        data : data
+    }
+}
 
 export default Blog
