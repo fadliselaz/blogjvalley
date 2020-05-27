@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Navbar from '../component/navbar/Navbar'
 import { useEffect } from 'react'
 import {Table} from 'react-bootstrap'
-import Dict from '../../model/Dict'
+import Dict from '../model/Dict'
 
 
 const Home = ({data}) => {

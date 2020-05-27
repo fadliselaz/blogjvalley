@@ -1,5 +1,5 @@
 import './navbar.scss'
-import Dict from '../../../model/Dict'
+import Dict from '../../model/Dict'
 import SideBar from './SideBar'
 
 const Navbar = (props) => {
