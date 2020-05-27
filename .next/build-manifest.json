@@ -1,15 +1,15 @@
 {
   "devFiles": [],
   "lowPriorityFiles": [
-    "static/0N-wDAuGpP6EfWChsUmP2/_buildManifest.js",
-    "static/0N-wDAuGpP6EfWChsUmP2/_ssgManifest.js"
+    "static/SuTeUK8k0ZSPAvD6MRkuC/_buildManifest.js",
+    "static/SuTeUK8k0ZSPAvD6MRkuC/_ssgManifest.js"
   ],
   "pages": {
     "/": [
       "static/runtime/webpack-83bd83ab777f80a6c75c.js",
       "static/chunks/framework.e84fa698c7ee940652bd.js",
       "static/chunks/commons.93f217ee7009f02d3fef.js",
-      "static/chunks/b36f21e6702d28c6d0a68ad1abd85715c563c324.ca2e621362f01b626e46.js",
+      "static/chunks/04e6217b817053b400e13bfe8450cf9ecf04f421.ca2e621362f01b626e46.js",
       "static/css/styles.703c86c0.chunk.css",
       "static/chunks/styles.80ef29fe836dfee4d0b1.js",
       "static/runtime/main-db767f1aa6c4498f8df3.js"
@@ -33,7 +33,7 @@
       "static/runtime/webpack-83bd83ab777f80a6c75c.js",
       "static/chunks/framework.e84fa698c7ee940652bd.js",
       "static/chunks/commons.93f217ee7009f02d3fef.js",
-      "static/chunks/b36f21e6702d28c6d0a68ad1abd85715c563c324.ca2e621362f01b626e46.js",
+      "static/chunks/04e6217b817053b400e13bfe8450cf9ecf04f421.ca2e621362f01b626e46.js",
       "static/css/styles.703c86c0.chunk.css",
       "static/chunks/styles.80ef29fe836dfee4d0b1.js",
       "static/runtime/main-db767f1aa6c4498f8df3.js"
@@ -42,7 +42,7 @@
       "static/runtime/webpack-83bd83ab777f80a6c75c.js",
       "static/chunks/framework.e84fa698c7ee940652bd.js",
       "static/chunks/commons.93f217ee7009f02d3fef.js",
-      "static/chunks/b36f21e6702d28c6d0a68ad1abd85715c563c324.ca2e621362f01b626e46.js",
+      "static/chunks/04e6217b817053b400e13bfe8450cf9ecf04f421.ca2e621362f01b626e46.js",
       "static/css/styles.703c86c0.chunk.css",
       "static/chunks/styles.80ef29fe836dfee4d0b1.js",
       "static/runtime/main-db767f1aa6c4498f8df3.js"
@@ -51,7 +51,7 @@
       "static/runtime/webpack-83bd83ab777f80a6c75c.js",
       "static/chunks/framework.e84fa698c7ee940652bd.js",
       "static/chunks/commons.93f217ee7009f02d3fef.js",
-      "static/chunks/b36f21e6702d28c6d0a68ad1abd85715c563c324.ca2e621362f01b626e46.js",
+      "static/chunks/04e6217b817053b400e13bfe8450cf9ecf04f421.ca2e621362f01b626e46.js",
       "static/css/styles.703c86c0.chunk.css",
       "static/chunks/styles.80ef29fe836dfee4d0b1.js",
       "static/runtime/main-db767f1aa6c4498f8df3.js"
